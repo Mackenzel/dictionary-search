@@ -9,7 +9,13 @@ export default function App() {
         <h1 className="search-header">Dictionary Search</h1>
       </header>
       <Dictionary />
-      <footer className="search-footer">Coded by Mackenzie Yarnall</footer>
+      <footer className="search-footer">
+        This project was coded by Mackenzie Yarnall and is{" "}
+        <a href="https://github.com/Mackenzel/dictionary-search">
+          open-source on Github
+        </a>
+        .
+      </footer>
     </div>
   );
 }
