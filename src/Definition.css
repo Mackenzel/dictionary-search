@@ -1,0 +1,18 @@
+h3 {
+  font-size: 28px;
+  text-transform: capitalize;
+}
+li {
+  display: inline;
+  font-weight: 500;
+  font-size: 14px;
+  padding: 25px;
+}
+em {
+  display: block;
+  padding: 0 15px;
+}
+.definition {
+  display: inline-block;
+  margin-top: 20px;
+}

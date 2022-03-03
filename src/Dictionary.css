@@ -1,2 +1,19 @@
-.Dictionary {
+.Dictionary form {
+  text-align: center;
+}
+
+.Dictionary section {
+  background: white;
+  padding: 30px;
+  border-radius: 5px;
+  margin: 20px 0;
+  margin-right: auto;
+  margin-left: auto;
+  max-width: 750px;
+}
+.Dictionary input {
+  width: 100%;
+}
+a {
+  text-decoration: none;
 }
