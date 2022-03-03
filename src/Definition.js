@@ -13,7 +13,6 @@ export default function Definition(props) {
               <br />
               <em>{definition.example}</em>
               <Synonym synonym={definition.synonyms} />
-              {console.log(definition.synonyms)}
             </p>
           </div>
         );
