@@ -6,7 +6,7 @@ export default function App() {
   return (
     <div className="App">
       <header className="App-header contianer">
-        <h1 className="search-header">Dictionary Search</h1>
+        <h1 className="search-header">Word Search</h1>
       </header>
       <Dictionary />
       <footer className="search-footer">
